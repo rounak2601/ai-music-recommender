@@ -138,7 +138,7 @@ This application is deployed on **Streamlit Cloud**.
 
 ## 👤 Author
 
-**Your Name**
+**Rounak Tilante**
 Aspiring Data Analyst | ML Enthusiast
 B.Tech Computer Science & Engineering (2025)
 
