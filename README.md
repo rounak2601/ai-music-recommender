@@ -2,7 +2,7 @@
 
 A Machine Learning web application that recommends similar songs based on lyrics using **TF-IDF Vectorization** and **Cosine Similarity**, with mood/genre filters, a playlist generator, and real-time trending songs powered by the **Last.fm API** — deployed with **Streamlit**.
 
-🔗 **Live Web App:** [Coming Soon after deployment]
+🔗 **Live Web App:** [🚀 Click Here](https://rounak2601-ai-music-recommender-srcmain-gxl1lh.streamlit.app)
 
 ---
 
