@@ -3,4 +3,3 @@ __pycache__/
 *.pyc
 *.log
 *.pkl
-src/spotify_millsongdata.csv
