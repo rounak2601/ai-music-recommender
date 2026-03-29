@@ -80,7 +80,7 @@ ai-music-recommender/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/ai-music-recommender.git
+git clone https://github.com/rounak2601/ai-music-recommender.git
 cd ai-music-recommender
 ```
 
