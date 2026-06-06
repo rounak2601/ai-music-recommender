@@ -1,4 +1,4 @@
-# 🎶 AI Music Recommender
+# AI Music Recommender
 
 A Machine Learning web application that recommends similar songs based on lyrics using **TF-IDF Vectorization** and **Cosine Similarity**, with mood/genre filters, a playlist generator, and real-time trending songs powered by the **Last.fm API** — deployed with **Streamlit**.
 
@@ -6,13 +6,13 @@ A Machine Learning web application that recommends similar songs based on lyrics
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project uses **Natural Language Processing (NLP)** techniques to analyze song lyrics and recommend similar songs. Users can filter recommendations by mood and genre, generate personalized playlists, and discover what's trending globally — all in real time.
 
 ---
 
-## 🧠 Machine Learning Details
+## Machine Learning Details
 
 - **Technique Used:** TF-IDF Vectorization + Cosine Similarity
 - **Type:** Content-Based Filtering (NLP)
@@ -30,18 +30,18 @@ The model development and notes are available in the preprocessing script.
 
 ---
 
-## ✨ App Features
+## App Features
 
-- 🎵 **Song Recommendations** — Pick any song and get 10 similar songs using lyric-based ML
-- 🎛️ **Filters** — Filter by Genre (Pop, Rock, Hip-Hop, Country, Classical) and Artist
-- 🎧 **Playlist Generator** — Generate a custom playlist filtered by Mood + Genre
-- 🔥 **Trending Songs** — Real-time globally trending songs via Last.fm chart API
-- 🖼️ **Album Art** — Fetches album/artist images from Last.fm API
-- ▶️ **Listen Links** — Direct links to Last.fm for every song
+-  **Song Recommendations** — Pick any song and get 10 similar songs using lyric-based ML
+-  **Filters** — Filter by Genre (Pop, Rock, Hip-Hop, Country, Classical) and Artist
+-  **Playlist Generator** — Generate a custom playlist filtered by Mood + Genre
+-  **Trending Songs** — Real-time globally trending songs via Last.fm chart API
+-  **Album Art** — Fetches album/artist images from Last.fm API
+-  **Listen Links** — Direct links to Last.fm for every song
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3.x
 - Pandas
@@ -55,7 +55,7 @@ The model development and notes are available in the preprocessing script.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ai-music-recommender/
@@ -75,7 +75,7 @@ ai-music-recommender/
 
 ---
 
-## ⚙️ Installation & Local Setup
+## Installation & Local Setup
 
 ### 1. Clone the repository
 
@@ -117,7 +117,7 @@ streamlit run main.py
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 This application is deployed on **Streamlit Cloud**.
 
@@ -126,7 +126,7 @@ This application is deployed on **Streamlit Cloud**.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Add Spotify API integration for richer song data
 - Use deep learning embeddings (Word2Vec / BERT) for better recommendations
@@ -136,7 +136,7 @@ This application is deployed on **Streamlit Cloud**.
 
 ---
 
-## 👤 Author
+## Author
 
 **Rounak Tilante**
 Aspiring Data Analyst | ML Enthusiast
@@ -144,6 +144,6 @@ B.Tech Computer Science & Engineering (2025)
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
